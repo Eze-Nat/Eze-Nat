@@ -4,50 +4,57 @@
 🎓 Tecnicatura en Programación – UTN  
 📍 Rosario, Argentina  
 
-Desarrollo aplicaciones web fullstack con autenticación JWT, arquitectura limpia y despliegue en producción.
+🌐 Portfolio:  
+👉 https://ezequielnatale.com.ar  
 
 ---
 
-# 🛍️ Proyecto Destacado
+## 🧠 Stack principal
 
-## 🛒 Ecommerce Perfumes (Fullstack – Deployado)
+### 💻 Backend
+- .NET / ASP.NET Core
+- Entity Framework Core
+- JWT Authentication
+- Clean Architecture
+- SQL Server / MySQL
 
-Aplicación ecommerce completa con autenticación JWT, panel administrativo y despliegue en producción.
+### 🌐 Frontend
+- React
+- React Router
+- Context API
+- JavaScript (ES6+)
+- HTML / CSS
 
-🔹 React + Vite (Frontend SPA)  
-🔹 API REST propia (Node/Express)  
-🔹 Autenticación JWT  
-🔹 Protección de rutas por rol  
-🔹 CRUD de productos (admin)  
-🔹 Deploy en Netlify + Render  
-
-🌐 **Demo en producción:**  
-[Ver aplicación online](https://eccomerce-perfumes.netlify.app/)
-
-📦 Frontend:  
-[Repositorio Frontend](https://github.com/Eze-Nat/eccomercePerfumes)
-
-🔗 Backend:  
-[Repositorio Backend](https://github.com/Eze-Nat/ecommercePerfumesAPI)
+### 🔧 Herramientas
+- Git / GitHub
+- Swagger
+- Postman
+- REST APIs
+- Netlify
+- Render
+- Azure (básico)
+- GitHub Actions (básico)
 
 ---
 
-# 💳 SmartWallet – API Backend (.NET)
+# 📌 Proyectos Destacados
 
-API REST desarrollada con Clean Architecture para gestión de usuarios y transacciones.
+## 💳 SmartWallet – API Backend (.NET)
 
-🔹 ASP.NET Core  
-🔹 Entity Framework Core  
+API REST desarrollada con arquitectura limpia para gestión de usuarios, autenticación y transacciones.
+
+🔹 Clean Architecture  
 🔹 JWT Authentication  
-🔹 Swagger  
+🔹 Swagger Documentation  
+🔹 EF Core  
 🔹 SQL Server  
-🔹 Arquitectura limpia  
 
-👉 [Ver repositorio](https://github.com/Eze-Nat/SmartWalletBackend)
+👉 Repo:  
+https://github.com/Eze-Nat/SmartWalletBackend  
 
 ---
 
-# 💼 SmartWallet – Frontend (React)
+## 💼 SmartWallet – Frontend (React)
 
 Frontend conectado al backend SmartWallet.
 
@@ -56,54 +63,42 @@ Frontend conectado al backend SmartWallet.
 🔹 Rutas protegidas  
 🔹 Gestión de estado  
 
-👉 [Ver repositorio](https://github.com/Eze-Nat/SmartWalletFr)
+👉 Repo:  
+https://github.com/Eze-Nat/SmartWalletFr  
 
 ---
 
-# 🪵 CN Carpintería (Proyecto Real)
+## 🛒 E-commerce Perfumes (Fullstack)
 
-Sitio web corporativo en desarrollo y rediseño.
+Aplicación fullstack con frontend en React y API propia en .NET.
 
-🔹 Catálogo online  
-🔹 Proyecto real en producción  
-🔹 Cliente real  
+🔹 Autenticación JWT  
+🔹 Carrito de compras  
+🔹 Panel admin  
+🔹 Control de stock  
+🔹 Deploy en Netlify + Render  
 
----
+👉 Frontend:  
+https://eccomerce-perfumes.netlify.app/  
 
-# 🧠 Stack Técnico
+👉 Repo Frontend:  
+https://github.com/Eze-Nat/eccomercePerfumes  
 
-### Backend
-- .NET / ASP.NET Core
-- Entity Framework Core
-- Clean Architecture
-- JWT
-- SQL Server / MySQL
-- REST APIs
-
-### Frontend
-- React
-- React Router
-- Context API
-- JavaScript
-- HTML / CSS
-
-### Herramientas
-- Git / GitHub
-- Swagger
-- Postman
-- Netlify / Render (deploy)
+👉 Repo Backend:  
+https://github.com/Eze-Nat/ecommercePerfumesAPI  
 
 ---
 
 # 📈 Actualmente
 
-🔨 Profundizando arquitectura backend  
-🚀 Mejorando despliegue y entorno productivo  
-🧪 Incorporando testing y buenas prácticas  
+🔨 Mejorando integración fullstack (React + .NET)  
+🚀 Aprendiendo mejores prácticas de arquitectura  
+🧪 Incorporando testing y CI/CD  
 
 ---
 
 # 📬 Contacto
 
 📧 ezequielnatale.t@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/ezequiel-natale/)
+💼 LinkedIn: https://www.linkedin.com/in/ezequiel-natale/  
+🌐 Portfolio: https://ezequielnatale.com.ar
